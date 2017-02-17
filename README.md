@@ -1,2 +1,3 @@
 # django_docker
-the docker django demo
+
+基于 Django + Redis + HAProxy 的Docker部署demo
